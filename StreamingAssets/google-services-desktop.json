@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "276461837753",
+    "firebase_url": "https://germina-monster-farmer.firebaseio.com",
+    "project_id": "germina-monster-farmer",
+    "storage_bucket": "germina-monster-farmer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276461837753:android:502801d1b4e5a25ed26a68",
+        "android_client_info": {
+          "package_name": "com.puchigame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276461837753-fk5nft7e064f9r37m8stf99ngtti9thp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1YTjUhSDYtoqFqUFPMbUwZ8BPcaPczvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276461837753-fk5nft7e064f9r37m8stf99ngtti9thp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
